@@ -1,6 +1,6 @@
 # AI/ML Strategy & Consulting Framework
 
-Welcome to the AI/ML Strategy & Consulting Framework repository. This repository is designed to demonstrate how AI/ML strategies can be formulated and implemented for business transformation. It contains tools, templates, and code that consultants can use in roles such as **AI/ML Strategy Consultant**, **Generative AI Business Consultant**, **AI/ML Program Manager**, and **AI/ML Industry Consultant**.
+Welcome to the AI/ML Strategy & Consulting Framework repository. This repository is designed to demonstrate how AI/ML strategies can be formulated and implemented for business transformation. It contains templates that consultants can use in roles such as **AI/ML Strategy Consultant**, **Generative AI Business Consultant**, **AI/ML Program Manager**, and **AI/ML Industry Consultant**.
 
 ## Table of Contents
 1. [Overview](#overview)
